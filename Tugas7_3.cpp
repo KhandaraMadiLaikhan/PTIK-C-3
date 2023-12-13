@@ -68,8 +68,6 @@ int main()
     vector<Mobil> mobilList;
     int choice;
 
-
-
     while (true)
     {
         cout << "1. Tampilkan semua mobil" << endl;
